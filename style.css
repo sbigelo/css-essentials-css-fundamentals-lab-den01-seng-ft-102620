@@ -26,7 +26,8 @@ figcaption {
 #details div{
   display: block;
   direction: ltr;
-  margin: 100px;
+  margin-right: 45px;
+  margin-left: 45px;
 }
 
 body {
