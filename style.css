@@ -24,10 +24,10 @@ figcaption {
 }
 
 #details div{
-  display: block;
-  direction: ltr;
-  margin-right: 45px;
-  margin-left: 45px;
+ display: block;
+ padding: 6px; 
+ padding-bottom: 2px; 
+ padding-left: 18px;
 }
 
 body {
