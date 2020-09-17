@@ -23,7 +23,7 @@ figcaption {
   margin-left: auto;
 }
 
-#details {
+#details div{
   display: block;
   direction: ltr;
 }
