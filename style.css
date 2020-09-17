@@ -26,6 +26,7 @@ figcaption {
 #details div{
  display: block;
  padding-left: 300px;
+ text-align: center;
 }
 
 body {
