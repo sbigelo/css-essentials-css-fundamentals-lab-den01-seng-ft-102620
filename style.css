@@ -25,7 +25,7 @@ figcaption {
 
 #details div{
  display: block;
-  float: center;
+  float: left;
   width: 300px;
   border: 3px;
 }
