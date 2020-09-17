@@ -24,7 +24,7 @@ figcaption {
 }
 
 #details {
-  
+  display: block;
   direction: ltr;
 }
 
